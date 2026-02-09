@@ -1,0 +1,8 @@
+numpy
+scipy
+sounddevice
+soundfile
+pyquaternion
+matplotlib
+keyboard
+librosa
